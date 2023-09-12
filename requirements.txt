@@ -1,0 +1,6 @@
+tk
+Pillow
+pytesseract
+autocorrect
+opencv-python
+PyMuPDF
